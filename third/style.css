@@ -1,0 +1,66 @@
+html, body {
+	height: 95%;
+	width: 95%;
+}
+
+.head {
+	height: 10%;
+	width: 100%;
+	background: black;
+}
+
+.link {
+	height: 100%;
+	width: 10%;
+	display: inline-block;
+	color: white;
+	text-align: center;
+	line-height: 55px;
+}
+
+.body {
+	height: 80%;
+	width: 100%;
+	background: white;
+}
+
+.split {
+	width: 49.5%;
+	height: 100%;
+	float: left;
+}
+
+.left {
+	
+}
+
+.right {
+	
+}
+
+.foot {
+	height: 10%;
+	width: 100%;
+	background: black;
+}
+
+h1 {
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+.blank {
+	height: 40%;
+	width: 90%;
+	background: grey;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+.words {
+	height: 60%;
+	width: 100%;
+}
